@@ -114,3 +114,33 @@ Bash
 ```
 docker compose down -v
 ```
+
+## 7. Quellenverzeichnis
+
+RESTful API Tutorial – https://restfulapi.net
+FastAPI Docs – https://fastapi.tiangolo.com
+Spring Boot Guide – https://spring.io/guides
+Docker Compose Overview – https://docs.docker.com/compose
+Postgres Docker Hub Image – https://hub.docker.com/_/postgres
+OpenAPI Specification – https://swagger.io/specification
+
+## 8. Promptverzeichnis
+
+„Hilf mir, eine leicht erweiterbare Backend-Architektur für eine REST-API aufzusetzen. Voraussetzungen:
+- CRUD für bestehende Postgres-Datenbank
+- ORM-Nutzung
+- Betrieb in Docker Compose
+Schlage mir geeignete Tools und ein minimales Ausgangsprojekt vor.“
+
+„Erstelle eine Docker-Compose-Konfiguration für folgende Komponenten:
+- Postgres-Datenbank
+- Backend-Service
+- Gemeinsames Docker-Netzwerk“
+
+„Hilf mir CRUD-REST-Endpoints für ein bestehendes relationales Datenmodell zu erstellen.
+Gib Beispiele für:
+- GET all
+- GET by ID
+- POST
+- PUT
+- DELETE"
